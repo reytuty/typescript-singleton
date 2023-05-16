@@ -1,0 +1,31 @@
+{
+  "name": "typescript-singleton",
+  "version": "0.1.1",
+  "description": "Class to handler singleton",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ts-singleton",
+    "singleton",
+    "class",
+    "typescript",
+    "singleeton"
+  ],
+  "author": "Renato Miawaki",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@babel/preset-env": "^7.21.5",
+    "@babel/preset-typescript": "^7.21.5",
+    "@jest/globals": "^29.5.0",
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
